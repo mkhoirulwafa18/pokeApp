@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:developer';
 
-import 'package:app_boilerplate/shared/utils/helpers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:poke_app/shared/utils/helpers.dart';
 
 class Observers extends ProviderObserver {
   @override

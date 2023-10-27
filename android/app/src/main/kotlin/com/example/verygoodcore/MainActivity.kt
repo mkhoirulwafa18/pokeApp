@@ -1,4 +1,4 @@
-package com.example.verygoodcore.app_boilerplate
+package com.wafastarz.poke_app
 
 import io.flutter.embedding.android.FlutterActivity
 

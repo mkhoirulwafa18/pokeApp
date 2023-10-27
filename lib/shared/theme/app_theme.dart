@@ -1,9 +1,9 @@
-import 'package:app_boilerplate/shared/data/local/storage_service.dart';
-import 'package:app_boilerplate/shared/providers/shared_prefs_service_provider.dart';
-import 'package:app_boilerplate/shared/theme/app_colors.dart';
-import 'package:app_boilerplate/shared/theme/text_styles.dart';
-import 'package:app_boilerplate/shared/theme/text_theme.dart';
-import 'package:app_boilerplate/shared/utils/helpers.dart';
+import 'package:poke_app/shared/data/local/storage_service.dart';
+import 'package:poke_app/shared/providers/shared_prefs_service_provider.dart';
+import 'package:poke_app/shared/theme/app_colors.dart';
+import 'package:poke_app/shared/theme/text_styles.dart';
+import 'package:poke_app/shared/theme/text_theme.dart';
+import 'package:poke_app/shared/utils/helpers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
